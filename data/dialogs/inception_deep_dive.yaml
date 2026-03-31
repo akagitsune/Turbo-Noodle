@@ -1,0 +1,6 @@
+session_id: "dialog-inception"
+
+turns:
+  - user: "Tell me about the movie Inception"
+  - user: "Who plays the lead role in it?"
+  - user: "What other movies has that actor starred in?"

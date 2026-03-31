@@ -1,0 +1,6 @@
+User question: {query}
+
+Database results:
+{db_results}
+
+Please answer the user's question based solely on these results.

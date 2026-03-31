@@ -1,0 +1,7 @@
+session_id: "dialog-genre"
+
+turns:
+  - user: "What are the top rated thriller movies in the database?"
+  - user: "Can you narrow it down to thrillers from the 2000s?"
+  - user: "Who directed the highest rated one from that list?"
+  - user: "What other movies did that director make?"

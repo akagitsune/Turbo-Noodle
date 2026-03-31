@@ -1,0 +1,7 @@
+session_id: "dialog-nolan"
+
+turns:
+  - user: "What movies has Christopher Nolan directed?"
+  - user: "Which of those are sci-fi?"
+  - user: "What is the plot of Interstellar?"
+  - user: "Who are the main actors in it?"
